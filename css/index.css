@@ -173,7 +173,7 @@ width: 50%;
 
 /* Footer */
 .emailContain {
-  background: url(../images/emailBG.jpg);
+  /*  background: url(../images/emailBG.jpg); */
   background-size: cover;
   display: flex;
   align-items: center;
